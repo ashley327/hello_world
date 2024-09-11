@@ -6,6 +6,6 @@ This repo will be used to:
 * Test connecting to HiperGator
 * More
 
-1. Numbered list
-2. Another iten
-3. More stuff
+  1. Numbered list
+  2. another item
+  3. stuff
