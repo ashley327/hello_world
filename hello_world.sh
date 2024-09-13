@@ -4,9 +4,13 @@
 
 echo 'Hello World!'
 
+function print_list() {
+    # Print the list of files in the directory
 
-# Print the list of files in the directory
+    echo 'These are the files in your directory:'
 
-echo 'These are the files in your directory:'
+    ls
+}
 
-ls
+print_list
+
